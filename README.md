@@ -3,7 +3,7 @@ Simply Example How forEach works on views in SwiftUI:
 
 
 `
-struct ContentView: View {
+    struct ContentView: View {
     
     let Colors: [Color] = [.red, .green, .blue]
     
@@ -33,4 +33,5 @@ struct ContentView: View {
             }
         }
     }
-}`
+}
+`
